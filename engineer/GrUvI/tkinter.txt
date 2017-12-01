@@ -1,0 +1,2 @@
+quit(): bypasses the mainloop() but is still active in background
+destroy(): actually closes the window and deletes the bytes

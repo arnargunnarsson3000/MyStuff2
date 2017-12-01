@@ -1,0 +1,24 @@
+\begin{equation}
+\begin{cases}
+ px(t) = 0.066t^5 + -0.328t^4 + 0.438t^3 + 0.0t^2 + 0.0t + 1.5\\
+ py(t) = 0.187t^5 + -0.937t^4 + 1.25t^3 + 0.0t^2 + 0.0t + -0.5\\
+\end{cases}
+\end{equation}
+\begin{equation}
+\begin{cases}
+ px(t) = 0.066t^5 + -0.328t^4 + 0.437t^3 + 0.0t^2 + 0.0t + 1.85\\
+ py(t) = -0.187t^5 + 0.937t^4 + -1.25t^3 + 0.0t^2 + 0.0t + 0.5\\
+\end{cases}
+\end{equation}
+\begin{equation}
+\begin{cases}
+ px(t) = 0.066t^5 + -0.328t^4 + 0.438t^3 + 0.0t^2 + 0.0t + 2.2\\
+ py(t) = 0.187t^5 + -0.937t^4 + 1.25t^3 + 0.0t^2 + 0.0t + -0.5\\
+\end{cases}
+\end{equation}
+\begin{equation}
+\begin{cases}
+ px(t) = 0.066t^5 + -0.328t^4 + 0.437t^3 + 0.0t^2 + 0.0t + 2.55\\
+ py(t) = -0.188t^5 + 0.938t^4 + -1.25t^3 + 0.0t^2 + 0.0t + 0.5\\
+\end{cases}
+\end{equation}
